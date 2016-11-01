@@ -1,0 +1,148 @@
+* {margin:0;padding:0;box-sizing:border-box;}
+body {
+  color: #222;
+  font-family: 'Raleway', sans-serif;
+}
+section {
+  padding:5em 0;
+  border:1px solid;
+}
+h1,h2 {
+  text-align: center;
+  font-family: 'Play', sans-serif;
+  font-size: 1.5em;
+}
+
+p,h3 {
+  padding: 0 10%;
+  font-size: 1.2em;
+}
+
+p {
+  font-weight: 100;
+  line-height: 1.6em;
+
+}
+hr {
+  width: 70%;
+}
+h3 {
+  padding-top: 1.2em;
+}
+
+nav {
+  color: white;
+  font-variant: small-caps;
+  font-stretch: semi-expanded;
+}
+
+nav ul {
+  list-style: none;
+}
+#splash {
+  background: linear-gradient(rgba(23, 24, 28, 0.7), rgba(23, 24, 28, 0.9)),url("../images/background.jpg");
+  background-size: cover;
+  color: #EEE7FF;
+  height: 80vh;
+}
+
+#slogan {
+  margin-top:3%;
+  text-align: center;
+  color: white;
+  font-style: oblique;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#splash h1 {
+  margin: 3.5em auto 0;
+  border-radius: 15px 0 15px 0;
+  background: #4169e1;
+  padding: 40px;
+  display: block;
+  width: 40%;
+  color: white;
+  font-size: 3.5em;
+}
+
+#contact_us {
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0px;
+  border: 1px solid white;
+  background-color: #4169e1;
+  text-align: center;
+  padding:10px 5px;
+  margin-top:9%;
+}
+
+#contact_us a {
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+.member {
+  max-width: 30%;
+}
+.member img {
+  max-width: 20%;
+  margin-left: 10em;
+  padding-top: 10px;
+}
+
+.customer {
+  max-width: 30%;
+}
+.customer img {
+  min-width: 5%;
+  max-width: 20%;
+  max-height: 100px;
+  margin-left: 10em;
+  padding-top: 10px;
+}
+
+
+/* Unit 5 home work */
+
+
+header {
+    border: 1px black solid;
+    padding: 20px;
+    background-color: #FFED74
+}
+
+nav {
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #E8C66A
+}
+aside {
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #FFC675;
+}
+article {
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #E89C6C;
+}
+footer {
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #FF957E;
+}
+div {
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #FFE2B8
+}
+section {
+  border: 1px black solid;
+  padding: 20px;
+  background-color: #FFE2B8
+}
+
+
+/* end of unit 5 home work*/
