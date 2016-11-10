@@ -83,7 +83,7 @@ nav ul li a {
 }
 
 #slogan {
-  background: #4169e1;
+  background: rgba(65, 105, 225, 0.7);
   text-align: center;
   color: white;
   font-style: oblique;
@@ -100,7 +100,7 @@ nav ul li a {
 #splash h1 {
   margin: 4.4em auto 0;
   border-radius: 15px 0 15px 0;
-  background: #4169e1;
+  background: rgba(65, 105, 225, 0.7);
   padding: 25px;
   display: block;
   width: 40%;
