@@ -22,7 +22,7 @@ h1,h2 {
 }
 
 p,h3 {
-  padding: 0 10%;
+  /* padding: 0 10%; */
   font-size: 1.2em;
 }
 
@@ -39,7 +39,7 @@ hr {
   margin-bottom: 2%;
 }
 h3 {
-  padding-top: 1.2em;
+  /* padding-top: 1.2em; */
   color: #4169e1;
 }
 
@@ -134,20 +134,22 @@ nav ul li a {
   text-decoration: none;
   color: white;
 }
+#team {
+    max-width: 75em;
+    margin: auto;
+}
 .member {
-  max-width: 30%;
+  width: 33.33%;
   float:left;
-  margin-left: 3%;
+  padding: 0 2em;
 }
 .member img {
-  max-width: 25%;
-  margin-left: 10em;
-  padding:3px;
-  margin-top: 2%;
+  max-width: 140px;
+  width: 100%;
   background-color: rgba(245, 245, 240, 0.8);
   border-radius: 5px 0 5px 0;
-  margin-bottom: 2%;
-
+  margin: 2% auto;
+  display: block;
 }
 .member h3 {
   text-align: center;
