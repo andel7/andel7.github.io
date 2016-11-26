@@ -265,6 +265,7 @@ div.customer:nth-child(5n) {
     height: 100%;
     width: auto;
     margin: 0 auto;
+    max-width: 700px;
   }
 }
 @media screen and (max-width:610px) {
