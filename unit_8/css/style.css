@@ -243,7 +243,8 @@ div.customer:nth-child(5n) {
 
 @media screen and (max-width:740px) {
   #slogan {
-     max-width: 50%;
+     width: 60%;
+     max-width: 560px;
   }
   .project, .customer, .member {
     width: 100%;
